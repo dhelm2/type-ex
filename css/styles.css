@@ -3,5 +3,30 @@
 
 /* Show Grid */
 .showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+	
 }
+
+body {
+	font-family: 'Syncopate';
+	color: white;
+	background: url("../img/2FINE7.jpg") no-repeat; 
+	background-size: 100%;
+	text-align: left;
+	padding-right: 675px;
+}
+
+h1 {
+	
+	font-size: 7em;
+	padding-bottom: -150px;
+}
+
+h3 {
+	font-size: 3em;
+}
+
+
+
+
+
+
